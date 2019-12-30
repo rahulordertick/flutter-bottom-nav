@@ -1,0 +1,148 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:1:1-28:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\26cf7f431323ce6e52a5dcc1b7c10501\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\adf243d5e16105b440703329b2fc7369\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\47922c6d48be72ba0cd21f295c736e06\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\a477b357f77ce56eabafd0a5e353cf1b\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\ede0f91f4ea97c71b914abe9178ce9b2\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\340b3459a9a27208f67e4b4f4facbee5\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\bdd4aec44c61a992e401bfb70bdc0ebb\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6b1216705495da62484c6c859b4bf32e\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8763732c1734b3590eec523e383efa58\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\0309ae474c43dc74870a46ca70521f41\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\12e331d6a7936914d1cf933cd9a35917\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\101604f6c2bba88872434559647334b9\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\f5c6009d652fd509b48347b7fb1f74a3\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9a72dcbfe754d625170c97433f664897\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8004464e1e964b77ad869292d19b0308\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\fa499ba5637a7e9a89ea4bbac00599e3\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9069390c217c480aead788c9d95da8f0\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\19586b22b07c2e9123e83a97b32a056e\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\4b449dbc4960323f5e9004e999965c30\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\996a24b7bd664dd83bf0a0762203ad6a\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\c9b031d576214057df149f7eb00ce348\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3772c8e79d64a6a41492fb734e119d83\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\ddf57afce5397dee8fc8ecd9ec9dc621\print-28.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:1:1-28:12
+INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:1:1-28:12
+	package
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:2:5-47
+		INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:1:1-28:12
+		INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:8:22-64
+application
+ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:15:5-27:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\101604f6c2bba88872434559647334b9\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\101604f6c2bba88872434559647334b9\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\19586b22b07c2e9123e83a97b32a056e\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\19586b22b07c2e9123e83a97b32a056e\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\101604f6c2bba88872434559647334b9\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:15:67-103
+	android:icon
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:15:104-138
+	android:name
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:15:18-66
+activity#github.nisrulz.usingbottomnavbar.MainActivity
+ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:16:9-26:20
+	android:launchMode
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:17:19-49
+	android:hardwareAccelerated
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:20:19-53
+	android:windowSoftInputMode
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:21:19-61
+	android:configChanges
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:19:19-112
+	android:theme
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:18:19-72
+	android:name
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:16:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:22:13-25:29
+action#android.intent.action.MAIN
+ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:23:17-68
+	android:name
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:24:17-76
+	android:name
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml:24:27-74
+uses-sdk
+INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\26cf7f431323ce6e52a5dcc1b7c10501\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\26cf7f431323ce6e52a5dcc1b7c10501\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\adf243d5e16105b440703329b2fc7369\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\adf243d5e16105b440703329b2fc7369\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\47922c6d48be72ba0cd21f295c736e06\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\47922c6d48be72ba0cd21f295c736e06\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\a477b357f77ce56eabafd0a5e353cf1b\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\a477b357f77ce56eabafd0a5e353cf1b\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\ede0f91f4ea97c71b914abe9178ce9b2\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\ede0f91f4ea97c71b914abe9178ce9b2\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\340b3459a9a27208f67e4b4f4facbee5\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\340b3459a9a27208f67e4b4f4facbee5\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\bdd4aec44c61a992e401bfb70bdc0ebb\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\bdd4aec44c61a992e401bfb70bdc0ebb\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6b1216705495da62484c6c859b4bf32e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\6b1216705495da62484c6c859b4bf32e\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8763732c1734b3590eec523e383efa58\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8763732c1734b3590eec523e383efa58\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\0309ae474c43dc74870a46ca70521f41\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\0309ae474c43dc74870a46ca70521f41\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\12e331d6a7936914d1cf933cd9a35917\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\12e331d6a7936914d1cf933cd9a35917\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\101604f6c2bba88872434559647334b9\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\101604f6c2bba88872434559647334b9\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\f5c6009d652fd509b48347b7fb1f74a3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\f5c6009d652fd509b48347b7fb1f74a3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9a72dcbfe754d625170c97433f664897\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9a72dcbfe754d625170c97433f664897\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8004464e1e964b77ad869292d19b0308\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\8004464e1e964b77ad869292d19b0308\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\fa499ba5637a7e9a89ea4bbac00599e3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\fa499ba5637a7e9a89ea4bbac00599e3\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9069390c217c480aead788c9d95da8f0\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\9069390c217c480aead788c9d95da8f0\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\19586b22b07c2e9123e83a97b32a056e\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\19586b22b07c2e9123e83a97b32a056e\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\4b449dbc4960323f5e9004e999965c30\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\4b449dbc4960323f5e9004e999965c30\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\996a24b7bd664dd83bf0a0762203ad6a\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\996a24b7bd664dd83bf0a0762203ad6a\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\c9b031d576214057df149f7eb00ce348\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\c9b031d576214057df149f7eb00ce348\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3772c8e79d64a6a41492fb734e119d83\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\3772c8e79d64a6a41492fb734e119d83\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\ddf57afce5397dee8fc8ecd9ec9dc621\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\dell\.gradle\caches\transforms-2\files-2.1\ddf57afce5397dee8fc8ecd9ec9dc621\print-28.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+		ADDED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Flutter Projects\Flutter Downloaded Examples\flutter-examples\using_bottom_nav_bar\android\app\src\main\AndroidManifest.xml
